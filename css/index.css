@@ -1,0 +1,33 @@
+#main-container {
+    margin: 0 auto;
+    height: auto;
+    width: 80%;
+    display: flex;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-family: "Sofia Sans Condensed", sans-serif;
+    font-size: 20px;
+}
+#left-panel {
+    height: auto;
+    width: 35%;
+    background-color: #BFAFA6;
+    padding: 10px;
+}
+#right-panel {
+    height: auto;
+    width: 65%;
+    background-color: #FFD8BE;
+    padding: 10px;
+}
+img {
+    height: 400px;
+    width: 80%;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+}
+.center-info {
+    text-align: center;
+}
