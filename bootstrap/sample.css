@@ -1,0 +1,35 @@
+body {
+
+}
+#header {
+    height: 100px;
+    background-color: #487E94;
+    width: 100%;
+}
+#navb {
+    width: 90%;
+    height: 100%;
+}
+#navb-color {
+    color: white;
+}
+.nav-link {
+    color: white !important;
+}
+#content {
+    background-color: #8E5A41;
+    width: 100%;
+}
+#left-panel {
+    height: 350px;
+}
+#right-panel {
+    height: 350px;
+}
+#cont-pic {
+    height: 350px;
+    width: 350px;
+}
+#sec-content {
+    width: 60%;  
+}
